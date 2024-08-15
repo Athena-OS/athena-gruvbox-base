@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Cyborg Gruvbox</name>
+    <filename>/usr/share/backgrounds/athena/cyborg-gruv.png</filename>
+    <filename-dark>/usr/share/backgrounds/athena/cyborg-gruv.png</filename-dark>
+    <options>stretched</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#D79921</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+</wallpapers>
